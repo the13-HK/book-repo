@@ -246,3 +246,37 @@ DBMS ‚Í 1 ŠK‚ÌŠÖŒW‚µ‚©ŠÇ—‚Å‚«‚È‚¢B‚¢‚¤‚È‚ê‚ÎA[‚³ 1 ‚ÌƒfƒBƒŒƒNƒgƒŠ‚µ‚©’è‹`‚Å‚
   - ŠÖŒWŒ^ƒf[ƒ^ƒx[ƒX‚ÍŠÖ”Œ^Œ¾Œê
 
 ### ‡˜‚ð‚ß‚®‚é–`Œ¯
+
+### GROUP BY ‚Æ PARTITION BY ‚Ìˆá‚¢
+
+- —¼•û‚Æ‚àƒe[ƒuƒ‹‚ÅŽw’è‚³‚ê‚½ƒL[‚Å•ªŠ„‚ðs‚¤‚½‚ß‚Ì‹@”\B
+- GROUP BY ‚Í•ªŠ„Œã‚ÉW–ñ‚µ‚Ä 1 s‚É‚Ü‚Æ‚ß‚é‘€ì‚ª“ü‚éB
+- ‚±‚ê‚ç‚Í”Šw“I‚É‚¢‚¤—Þ‚ÆŒÄ‚Ô•”•ªW‡‚ðì‚é‘€ì‚Å‚ ‚éB
+- —Þ‚Ì“Á’¥‚ÍˆÈ‰ºŽO‚Â
+  - ‚¢‚¸‚ê‚à‹óW‡‚Å‚Í‚È‚¢
+  - ‘S‚Ä‚Ì•”•ªW‡‚Ì˜a‚ª•ªŠ„‚·‚é‘O‚ÌW‡‚Æˆê’v‚·‚é
+  - ŒÝ‚¢‚ÉˆÙ‚È‚é”CˆÓ‚Ì“ñ‚Â‚Ì•”•ªW‡‚ª‹¤’Ê•”•ª‚ðŽ‚½‚È‚¢
+- MOD ‚à—Þ‚ÌˆêŽí‚Å‚ ‚éB
+
+### Žè‘±‚«Œ^‚©‚çéŒ¾Œ^EW‡ŽwŒü‚Ö“ª‚ðØ‚è‘Ö‚¦‚é 7 ‰Óð
+
+- Žè‘±‚«Œ^‚©‚ç”ñŽè‘±‚«Œ^‚Ö‚ÌØ‚è‘Ö‚¦‚Åd—v‚È‚±‚Æ‚Í‡˜‚©‚çW‡‚Ö‚ÌØ‚è‘Ö‚¦‚Å‚ ‚éB
+  - ‘ã“üE•ªŠòEƒ‹[ƒv‚ªŠî–{“I‚Èˆ—’PˆÊ‚È‚Ì‚ªŽè‘±‚«Œ^Œ¾Œê
+  - •¡ŽG‚È•¨‚Í’Pƒ‚È‚à‚Ì‚Ì‘g‚Ý‡‚í‚¹‚Æ‚¢‚¤ŠÒŒ³˜_“I‚Èl‚¦‚ª‡˜
+  - W‡“I‚Èl‚¦iSQLj‚Í‘S‘Ì˜_“I‚Èl‚¦•û‚Å‚ ‚éB
+
+#### IF •¶‚â CASE •¶‚Í CASE Ž®‚É’u‚«Š·‚¦‚é
+
+- •¶’PˆÊ‚Å•ªŠò‚ðs‚¤‚Ì‚Å‚Í‚È‚­AŽ®’PˆÊ‚Å•ªŠò‚ðs‚¤‚æ‚¤‚É‚·‚é
+
+#### ƒ‹[ƒvˆ—‚Í GROUP BY ‚ÆƒEƒCƒ“ƒhƒEŠÖ”‚Å’u‚«Š·‚¦‚é
+
+#### ƒe[ƒuƒ‹‚Ìs‚É‡˜‚Í‚È‚¢
+
+### SQL ‚É‚¨‚¯‚é ‘¶Ý ‚Ì ŠK‘w
+
+- SQL •¶‚ª‚Ç‚ÌƒŒƒxƒ‹‚ÌŠK‘w‚ÌW‡‚ð•\‚·Ž®‚È‚Ì‚©‚ðŒ©‹É‚ß‚é‚±‚Æ‚ÅASQL •¶‚ÌˆÓ–¡‚ð—‰ð‚·‚é‚±‚Æ‚ª‚Å‚«‚éB
+- GROUP BY ‚ðs‚¤‚Æ 1 ƒŒƒxƒ‹ã‚ÌW‡‚ð•\‚·Ž®‚É‚È‚éB
+  - ‚»‚Ì‚½‚ß—±—±‚Ìƒf[ƒ^‚ðŽQÆ‚·‚é‚æ‚¤‚È‚±‚Æ‚Í‚Å‚«‚¸ƒGƒ‰[‚É‚È‚éB
+    - —áj SELECT team, AVG( age), age FROM Teams GROUP BY team;
+      - age ‚Í GROUP BY ‚ÅW–ñ‚³‚ê‚½ƒf[ƒ^‚ðŽQÆ‚·‚é‚±‚Æ‚ª‚Å‚«‚È‚¢‚½‚ßƒGƒ‰[‚É‚È‚éB
