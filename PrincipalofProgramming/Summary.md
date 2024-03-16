@@ -71,7 +71,7 @@ UNIX Žv‘z‚ÍŒöŽ®‚È•û–@˜_‚Å‚Í‚È‚¢‚ªƒ{ƒgƒ€ƒAƒbƒv“I‚É”|‚í‚ê‚½•¶‰»A‚»‚ê‚É€‚¶‚½ÝŒvŽ
   - “Ç‚Þl‚ª—\‘z‚µ‚â‚·‚¢ƒR[ƒh‚É‚·‚é
   - ŠwKƒRƒXƒg‚ª‰º‚ª‚é
 - ’¾–Ù‚ÌŒ´‘¥
-  - •\Ž¦‚ðÅ¬ŒÀ‚É—}‚¦‚éBî•ñ‚Í•K—v‚ÈŽž‚É‚¾‚¯•\Ž¦‚·‚é
+  - •\Ž¦‚æ‚¿¬ŒÀ‚É—}‚¦‚éBî•ñ‚Í•K—v‚ÈŽž‚É‚¾‚¯•\Ž¦‚·‚é
 - C•œ‚ÌŒ´‘¥
   - ƒGƒ‰[Žž‚Éˆ—‚ªŒp‘±‚·‚é‚Ì‚Í”ð‚¯‚é
 - ŒoÏ«‚ÌŒ´‘¥
@@ -90,3 +90,39 @@ UNIX Žv‘z‚ÍŒöŽ®‚È•û–@˜_‚Å‚Í‚È‚¢‚ªƒ{ƒgƒ€ƒAƒbƒv“I‚É”|‚í‚ê‚½•¶‰»A‚»‚ê‚É€‚¶‚½ÝŒvŽ
   - ƒvƒ‰ƒKƒuƒ‹iÚ‘±‰Â”\j‚ÈÝŒv‚É‚·‚é
 
 ### UNIX ‚Ì“NŠw
+
+UNIX ‚Ì”wŒã‚É‚ ‚éÝŒv‚Ì“NŠw‚ÍˆÈ‰º 9 ŒÂ‚Ì’è—‚É‚Ü‚Æ‚ß‚ç‚ê‚Ä‚¢‚éB
+
+- ¬‚Í”ü‚È‚è
+  - ¬‚³‚¢ƒ\ƒtƒgƒEƒFƒA‚É‚·‚é‚±‚Æ‚É‚æ‚Á‚Ä—‰ð‚ª—eˆÕ‚É‚È‚èA•ÛŽç‚ª—eˆÕ‚É‚È‚éB
+  - ‘¼‚Ìƒ\ƒtƒgƒEƒFƒA‚Æ‘g‚Ý‡‚í‚¹‚µ‚â‚·‚¢
+- ƒŒƒoƒŒƒbƒWEƒ\ƒtƒgƒEƒFƒA
+  - Šù‘¶‚Ìƒ\ƒtƒgƒEƒFƒA‚ðÄ—˜—pA‘g‚Ý‡‚í‚¹‚é‚±‚Æ‚Å‘•‚³‚¹‚é‚æ‚¤‚Èƒ\ƒtƒgƒEƒFƒA‚ðì¬‚·‚é
+  - ’P‹@”\‚Å’P‰¿’l‚ÉW’†‚µ‚½¬‚³‚Èƒ\ƒtƒgƒEƒFƒA‚ðì¬‚·‚é
+- 1 ‚Â 1 ŽdŽ–
+  - ƒ\ƒtƒgƒEƒFƒAˆê‚Â‚ÉÓ”C‚ðˆê‚ÂŽ‚½‚¹‚é‚±‚Æ‚Åƒsƒ…ƒA‚Èƒ\ƒtƒgƒEƒFƒA‚É‚·‚é
+- ƒVƒFƒ‹ƒXƒNƒŠƒvƒgŠˆ—p
+  - ƒVƒFƒ‹ƒXƒNƒŠƒvƒg‚ðŠˆ—p‚·‚é‚±‚Æ‚ÅžŒŽq‚ÌŒø‰Ê‚ÆˆÚA«‚ð‚‚ß‚éB
+  - ƒVƒFƒ‹ƒXƒNƒŠƒvƒg‚ðƒOƒ‹[Œ¾Œê‚Æ‚µ‚ÄŽg‚¤
+- ‘¦sƒvƒƒgƒ^ƒCƒv
+  - o—ˆ‚é‚¾‚¯‘‚­ƒvƒƒgƒ^ƒCƒv‚ðì¬‚µAŽŽsöŒë‚ðs‚¤
+  - ŽŽsöŒë–³‚µ‚Å—Ç‚¢‚à‚Ì‚Íì¬‚Å‚«‚È‚¢
+- ‘Î˜bƒCƒ“ƒ^[ƒtƒF[ƒX‰ñ”ð
+  - S‘©“Iƒ†[ƒU[ƒCƒ“ƒ^ƒtƒF[ƒX‚Í”ð‚¯‚é
+  - ˆê’Uƒ\ƒtƒgƒEƒFƒA‚ð‹N“®‚·‚é‚ÆA‚»‚ê‚ªI—¹‚·‚é‚Ü‚ÅƒRƒ}ƒ“ƒhƒCƒ“ƒ^ƒvƒŠƒ^‚Æ‚Ì‘Î˜b‚ªo—ˆ‚È‚­‚È‚é‚±‚Æ‚ðS‘©“IA‚ÆŒÄ‚ñ‚Å‚¢‚é
+- Œø—¦«‚æ‚èˆÚA«
+  - ‘¼‚Ìƒvƒ‰ƒbƒgƒtƒH[ƒ€‚ÉˆÚA‚µ‚â‚·‚¢‚æ‚¤‚É‚·‚é
+  - ˆÚA«‚ÆŠJ”­Œø—¦«‚Í“ñ—¥”w”½‚¾‚ªAˆÚA«‚ðdŽ‹‚³‚¹A‚é‚±‚Æ‚Åƒ\ƒtƒgƒEƒFƒA‚Ì‰¿’l‚ðŒp‘±‚³‚¹‚é‚±‚Æ‚ð—Dæ‚³‚¹‚éB
+  - ƒn[ƒhƒEƒFƒA‚ÉˆË‘¶‚µ‚È‚¢ƒR[ƒh‚ð‘‚­‚±‚Æ‚ª‘åŽ–
+    - Docker ‚Í‘åŽ–
+- ƒtƒBƒ‹ƒ^‰»
+  - ƒ\ƒtƒgƒEƒFƒA‚ÍƒtƒBƒ‹ƒ^‚Æ‚µ‚ÄÝŒv‚·‚é
+  - ƒ\ƒtƒgƒEƒFƒA‚Íƒf[ƒ^‚ðˆ—‚·‚é‚±‚Æ‚Å‚ ‚èA¶¬‚·‚é‚±‚Æ‚Å‚Í‚È‚¢B
+  - ƒf[ƒ^‚Ì“üo—Í‚ª”­¶‚·‚é‚±‚Æ‘O’ñ‚ÅÝŒv‚ðs‚¤B
+- ƒf[ƒ^‚ÍƒeƒLƒXƒg
+  - ƒf[ƒ^‚ÍƒeƒLƒXƒgƒtƒ@ƒCƒ‹‚É•Û‘¶‚·‚é‚æ‚¤‚É‚·‚éB
+  - ƒeƒLƒXƒgƒtƒ@ƒCƒ‹‚ªˆÚA«‚Ì–Ê‚ÅÅ‹­
+  - lŠÔ‚Å‚àƒf[ƒ^‚ª’¼‚¿‚ÉŠm”F‚Å‚«‚é
+  - ƒc[ƒ‹‚âƒRƒ}ƒ“ƒh‚àˆµ‚¢‚â‚·‚¢Œ`Ž®
+
+## ‘æ 4 Í Ž‹“_~ƒvƒƒOƒ‰ƒ}‚ÌŠÏ‚éŠp“x~
